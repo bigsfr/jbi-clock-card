@@ -1,6 +1,6 @@
 {
-  "name": "Simple Clock Card",
+  "name": "Jbi Clock Card",
   "content_in_root": true,
   "render_readme": true,
-  "filename": "simple-clock-card.js"
+  "filename": "jbi-clock-card.js"
 }

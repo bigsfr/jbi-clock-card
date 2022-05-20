@@ -1,4 +1,4 @@
-class SimpleClockCard extends HTMLElement {
+class JbiClockCard extends HTMLElement {
 
 	set hass(hass) {
 
@@ -54,4 +54,4 @@ class SimpleClockCard extends HTMLElement {
     }
 }
 
-customElements.define('simple-clock-card', SimpleClockCard);
+customElements.define('jbi-clock-card', JbiClockCard);
